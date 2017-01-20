@@ -27,6 +27,9 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+# Remember
+These #things make links!
+
 # Test
 testing something
 
@@ -43,10 +46,8 @@ try this out
 one more after this
 
 ###### last one
-maybe
+This doesn't get big but it still makes a link!
 
-####### ok i lied
-lmao
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
