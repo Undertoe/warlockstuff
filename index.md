@@ -30,6 +30,9 @@ Syntax highlighted code block
 # Remember
 These #things make links!
 
+## Also
+They get smaller...
+
 # Test
 testing something
 
@@ -46,8 +49,7 @@ try this out
 one more after this
 
 ###### last one
-This doesn't get big but it still makes a link!
-
+This is the same size as standard text, but does make a link!
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
