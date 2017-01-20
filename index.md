@@ -1,3 +1,11 @@
+1. Item 1
+2. Item 2
+3. Item 3
+   * Item 3a
+   * Item 3b
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Undertoe/warlockstuff/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
