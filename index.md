@@ -45,11 +45,11 @@ we can make this
 #### lets
 try this out
 
-##### going to do
-one more after this
+##### This text is the same size
+as this text
 
 ###### last one
-This is the same size as standard text, but does make a link!
+This is smaller than text, but does make a link!
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
